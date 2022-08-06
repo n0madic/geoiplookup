@@ -1,0 +1,4 @@
+*.csv
+*.mmdb
+geoiplookup
+dist/
